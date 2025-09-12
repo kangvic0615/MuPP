@@ -1,0 +1,1 @@
+python run_recbole.py --model MuPP --dataset Amazon_Beauty --config_files configs/Amazon_Beauty.yaml --train_batch_size 512 --num_item_representation 2 

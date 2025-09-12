@@ -1,0 +1,1 @@
+from recbole.model.sequential_recommender.mupp import MuPP
