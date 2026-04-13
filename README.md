@@ -1,5 +1,7 @@
-# MuPP
-This is the official source code for our proposed paper.
+<div align=center>
+  <h1>MuPP: Multi-Preference Padding for Sequential Recommendation</h1>
+</div> 
+This is the official PyTorch implementation of the SIGIR 2026 paper "MuPP: Multi-Preference Padding for Sequential Recommendation".
 
 ### Install from source
 ```bash
